@@ -1,0 +1,9 @@
+fastapi
+nltk
+numpy
+pandas
+tensorflow
+scikit-learn
+uvicorn
+sqlalchemy
+pymysql
